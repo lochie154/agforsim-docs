@@ -15,5 +15,5 @@ A composable modeling library for agroforestry systems.
 
 ## Related
 
-- [GitHub: agforsim](https://github.com/YOUR_USERNAME/agforsim) - Python package
-- [GitHub: agforsim-docs](https://github.com/YOUR_USERNAME/agforsim-docs) - This vault
+- [GitHub: agforsim](https://github.com/lochie154/agforsim) - Python package
+- [GitHub: agforsim-docs](https://github.com/lochie154/agforsim-docs) - This vault
