@@ -1,1 +1,0 @@
-This folder describes the parameters for the different scenarios that will be tested in the ensemble models.
