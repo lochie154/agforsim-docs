@@ -1,0 +1,1 @@
+This folder contains write ups of components and concepts from tools that I explore, regardless if I use them in agforsim or not. There will be a note for each component that explains it in detail and connects it to the tools that mention it. This differs from the tools section - which just simply mentions the components as they are in the papers/codebases where they are found. 
