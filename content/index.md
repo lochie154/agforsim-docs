@@ -12,6 +12,7 @@ A composable modeling library for agroforestry systems.
 - [[components/README|Components]] - Extracted function documentation
 - [[scenarios/README|Scenarios]] - Test scenario definitions
 - [[ensembles/README|Ensembles]] - Ensemble configurations and results
+- [[concepts/README|Concepts]] - Inputs, outputs, assumptions, and traditional knowledge
 
 ## Related
 
